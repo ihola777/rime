@@ -13,9 +13,11 @@ Linux
 ```
 ##### 配置文件说明:
 ```
-default.custom.yaml
-luna_pinyin.custom.yaml
-custom_phrase.txt
+default.custom.yaml: 设置输入法、切换输入法、翻页等等
+luna_pinyin.custom.yaml: 明月输入法方案
+symbols.yaml: 符号方案
+luna_pinyin.extended.dict.yaml: 词库配置文件
+custom_phrase.txt: 设置快捷输入
 ```
 
 ##### 词库文件说明:
@@ -30,3 +32,4 @@ custom_phrase.txt
 历史: luna_pinyin.history.dict.yaml
 电脑词汇: luna_pinyin.computer.dict.yaml
 ```
+
