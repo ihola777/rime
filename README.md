@@ -1,5 +1,5 @@
 # rime
-
+[官方wiki](https://github.com/rime/home/wiki)
 
 ##### 配置文件路径:
 ```
